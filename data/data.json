@@ -1,0 +1,27 @@
+{
+	"mobiles":[
+		{
+			"name": "nokia",
+			"image":"img/1.jpg",
+			"oprice":10000,
+			"price":3999
+		},{
+			"name": "samsung",
+			"image":"img/2.jpg",
+			"oprice":13000,
+			"price":12999
+
+		},{
+			"name": "redmi",
+			"image":"img/3.jpg",
+			"oprice":15000,
+			"price":13999
+		},{
+		
+			"name": "realme",
+			"image":"img/4.jpg",
+			"oprice":12000,
+			"price":10999	
+		}
+	]
+}
